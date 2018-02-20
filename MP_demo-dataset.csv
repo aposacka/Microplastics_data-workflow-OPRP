@@ -1,0 +1,29 @@
+project,site,tim_period,sample,date_extracted,proc_blk,back_blk,filter_label,photo_label,inspection_date,mp_number,particle_number,photo_number,long_axis,short_axis,particle_type,area,perimeter,colour,transparent.colour,ftir
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,1,1,1492,10.92,fibre,NA,NA,blue,NA,N
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,2,"2, 3",1825,452.7,sheet,756515,4499,dark,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,3,NA,974.3,25.56,fibre,NA,NA,orange,NA,N
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,4,NA,NA,NA,fragment,NA,NA,transparent,clear,N
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,5,"4, 5",1588,29.3,fibre,NA,NA,blue,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,6,"6, 7",663.9,18.53,fibre,NA,NA,orange,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,7,"8, 9",68.45,8.405,fibre,NA,NA,dark,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,12-Sep-17,1,8,"10, 11, 12",976.6,14.23,fibre,NA,NA,red,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,9,"15, 16, 17",884.1,10.51,fibre,NA,NA,orange,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,10,"18, 19, 20",455,16.81,fibre,NA,NA,transparent,clear,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,11,"21, 22",995,15.4,fibre,NA,NA,dark,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,12,"23, 24, 25",64.27,57.25,fragment,3802.981,236.3,transparent,clear,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,13,"26, 27",1319,19.28,fibre,NA,NA,orange,NA,Y
+cms,howe_sound,30,M1,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,14,24,NA,NA,fibre,NA,NA,blue,NA,N
+cms,horshoe_bay,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,1,1,1492,10.92,fragment,NA,NA,blue,NA,N
+cms,horshoe_bay,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,2,"2, 3",1825,452.7,fragment,756515,4499,dark,NA,Y
+cms,horshoe_bay,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,3,NA,974.3,25.56,sheet,NA,NA,orange,NA,N
+cms,horshoe_bay,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,4,NA,NA,NA,sheet,NA,NA,transparent,clear,N
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,5,"4, 5",1588,29.3,sheet,NA,NA,blue,NA,Y
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,6,"6, 7",663.9,18.53,sheet,NA,NA,orange,NA,Y
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,7,"8, 9",68.45,8.405,fibre,NA,NA,dark,NA,Y
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,8,"10, 11, 12",976.6,14.23,fibre,NA,NA,red,NA,Y
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,9,"15, 16, 17",884.1,10.51,fibre,NA,NA,orange,NA,Y
+cms,powel_river,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,10,"18, 19, 20",455,16.81,fibre,NA,NA,transparent,clear,Y
+cms,canada_place,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,1,1,1492,10.92,fragment,NA,NA,blue,NA,N
+cms,canada_place,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,2,"2, 3",1825,452.7,fragment,756515,4499,dark,NA,Y
+cms,canada_place,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,3,NA,974.3,25.56,sheet,NA,NA,orange,NA,N
+cms,canada_place,30,M2,15-Aug-17,7,7,CMS_HS30_M1_15AUG17,HS30M1_12SEP2017,13-Sep-17,1,4,NA,NA,NA,sheet,NA,NA,transparent,clear,N

@@ -1,0 +1,34 @@
+---
+title: "R newbie CORI"
+author: "Ania"
+date: "January 25, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My friends, get ready for immersing yourself into R
+
+Here is a list of topics selected to get you on your R feet asap and it is my hope that you will start applying some of the commands we learn to your own data. We will do a live coding session together and use a dataset that is R-friendly called gapminder (click [here]() for more info on this dataset). In order for you to really learn R, you will need to practice what we covered. I recommend doing the homework using the gapminder dataset - why? The point is that you practice your new learnt skills and avoid battling error messages you might get when working with a dataset that is not R-friendly yet (likely your dataset). The meaning of R-friendly will be unveiled in the sessions
+
+Topics:
+
+1. [Install R and RStudio](http://stat545.com/block000_r-rstudio-install.html) - click on this link for instructions. Get them installed before our sessions
+
+Session 1:  
+
+2. The basics:
+
+* RStudio orientation & best practices for organizing your analysis [workspace, Rporjects]. 
+
+  + Relevant resources: [data management Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/)
+
+* Documenting your analysis in RStudio: quick intro into RMarkdown
+* 
+
+
+
+
+
